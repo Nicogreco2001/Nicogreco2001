@@ -51,9 +51,6 @@
 <br/>  
 
 
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=noraksquaad&cover_image=true&theme=compact&show_offline=false&background_color=121212" /></div>  
-
 <br/>  
 
   
