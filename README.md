@@ -10,7 +10,9 @@
   
 
 - You can contact me via email: niccogreek@gmail.com  
-  
+
+
+- You can find my bachelor's degree thesis and all the code I have used here [Thesis](https://github.com/Nicogreco2001/BioinformaticsThesisRepo).
 
 <br/>  
 
@@ -27,9 +29,6 @@
 <div align="center">  
 <a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" /></a>  
 </div>
-
-</td><td valign="top" width="33%">
-
 
 
 </td></tr></table>  
