@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Nicola, a student at Sapienza University of Rome👨‍🎓 - BSC in Bioinformatics🔬💻 - 3rd Year🚀</div>  
+### <div align="center">I'm Nicola, a student at Utrecht University👨‍🎓 - MSc in Bioinformatics and Biocomplexity🔬💻 - 1rd Year🚀</div>  
   
 
 - You can find my Resumee here [CV](https://github.com/Nicogreco2001/Nicogreco2001/blob/main/Resumee/Resumee.pdf)  
